@@ -6,7 +6,7 @@
 
 In this notebook we will build a deep learning model able to [detect the languages from short piceces of text (140 characters, old Tweets lenght) with high accuracy using neural networks](http://machinelearningexp.com/deep-learning-language-identification-using-keras-tensorflow/). The task is commonly solved using hard-coded rules or NLP library, but we will attack the problem using Deep Learning.
 
-<img src="https://raw.githubusercontent.com/floydhub/language-identification-template/master/images/fhchat.png" width="500" height="500" align="center"/>
+<img src="https://raw.githubusercontent.com/floydhub/language-identification-template/master/images/fhchat.png" width="650" height="500" align="center"/>
 
 *Made with [Sketch Group Chat](https://www.sketchappsources.com/free-source/1558-group-chat-sketch-freebie-resource.html)*
 
