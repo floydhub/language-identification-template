@@ -1,0 +1,5 @@
+env: tensorflow-1.7
+machine: cpu
+data:
+  - source: floydhub/datasets/language-identification/1
+    destination: languageidentification
