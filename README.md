@@ -2,6 +2,12 @@
 
 [Language identification](https://en.wikipedia.org/wiki/Language_identification) is one of the most common feature of every Social Network or Web application, this is commonly paired with [Machine Translation](https://en.wikipedia.org/wiki/Machine_translation) to improve the user experience and content accesibility(a must have in the 2.0 society). *What can you use it for?* This is a foundation for other features such as Machine Translation (as mentioned before) and post/tweets/articles and documents analysis.
 
+### Try it now
+
+[![Run on FloydHub](https://s3-us-west-2.amazonaws.com/floydhub-assets/button/button.svg)](https://floydhub.com/run?template=https://github.com/floydhub/language-identification-template)
+
+Click this button to open a Workspace on FloydHub that will train this model.
+
 ### Language identification of short pieces of text from Wikipedia
 
 In this notebook we will build a deep learning model able to [detect the languages from short piceces of text (140 characters, old Tweets lenght) with high accuracy using neural networks](http://machinelearningexp.com/deep-learning-language-identification-using-keras-tensorflow/). The task is commonly solved using hard-coded rules or NLP library, but we will attack the problem using Deep Learning.
